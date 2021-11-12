@@ -14,5 +14,11 @@ For details about individual files, refer to the respective folders.
 ## Reference
 If you find this repo useful, please cite our paper:
 ```
-# ref to be added soon #
+    @inproceedings{gunti-etal-memotion,
+    title = {Memotion Analysis through the Lens of Joint Embedding},
+    author = {Nethra Gunti and  Sathyanarayanan Ramamoorthy and Parth Patwa and Amitava Das}
+    booktitle =  {Proceedings of the AAAI Conference on Artificial Intelligence},
+    year = {2022},
+   }
+
 ```
